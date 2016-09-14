@@ -15,7 +15,8 @@ Task 1
 7. Move Task 1 to Week 2
 8. Screenshot your final result
 9. git clone "github.com/jpark96/ml-b-bootcamp-public.git"
-10. Add your screenshot to "trello-tutorial/screenshots/{first_last_name}" and push your changes
+10. Switch to a different branch "{first_last_name}"
+11. Add your screenshot to "trello-tutorial/screenshots/{first_last_name}" and push your changes
 
 ![](img/jin_park.png)
 
